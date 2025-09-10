@@ -169,13 +169,9 @@ The project is designed for learning and demonstrates:
 - RESTful API design
 - Docker containerization
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
-**Neda** - *Initial work*
+**Neda**
 
 ---
 
