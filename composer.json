@@ -1,0 +1,13 @@
+{
+    "name": "php-rest-api/student-management",
+    "description": "PHP REST API without framework with different functionality",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
